@@ -13,7 +13,7 @@ Generate and explore beautiful color palettes with the Color Palette Generator a
 
 ## Demo
 
-View a live demo of the app [here](#).
+View a live demo of the app [https://color-palette-generator-mht.vercel.app/](#).
 
 ## Features
 
