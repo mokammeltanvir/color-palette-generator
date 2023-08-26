@@ -30,7 +30,7 @@ View a live demo of the app [here](#).
    git clone https://github.com/mokammeltanvir/color-palette-generator.git
    cd color-palette-generator
    npm install
-   npm run serve
+   
     ```
 
 ## Usage
